@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lee22-subin/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.sxl2536@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to My Website!
+
+Hello! I am Subin Lee, a general surgery resident currently in my research year. During my time in research, I am also pursuing a Master's degree in Clinical Research.
+
+My research specialty is in Cardiothoracic Surgery with a focus on improving outcomes for patients with esophageal cancer and esophageal dysmotility disorders. My work encompasses both retrospective chart reviews and prospective studies to identify risk factors for development of these diseases and to assess the effectiveness of various interventions.
+
+In my free time, I enjoy traveling and playing golf!
+
+Please feel free to [contact me](mailto:mail.sxl2536@case.edu) if you have any questions.
+

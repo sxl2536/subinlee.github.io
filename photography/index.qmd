@@ -1,0 +1,26 @@
+---
+title: "Photography"
+---
+
+On this page is a collection of different aspects of my professional and personal life.
+
+
+
+::: {layout-ncol=2}
+
+Group photo of Boston College honors thesis students
+
+![](gandalf_image_1.jpg)
+
+![](gandalf_image_2.jpg)
+Community outreach initiative during COVID-19 pandemic featured on local news media
+
+
+
+
+Meet our family dog!
+![](gandalf_image_3.jpg)
+
+![](gandalf_image_4.jpg)
+
+:::
